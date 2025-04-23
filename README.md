@@ -1,4 +1,4 @@
-# 🚢 Titanic Survival Prediction - My First Machine Learning Project
+# 🚢 Titanic Survival Prediction
 
 This project predicts whether a passenger survived the Titanic disaster using classic machine learning techniques. It was built as a beginner-friendly introduction to data science and model building using Python.
 
